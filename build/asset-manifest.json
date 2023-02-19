@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./build/static/css/main.60303312.css",
+    "main.js": "./build/static/js/main.3bf02a44.js",
+    "static/js/787.a85ed26c.chunk.js": "./build/static/js/787.a85ed26c.chunk.js",
+    "static/media/aboutg.png": "./build/static/media/aboutg.42f2fd7d5c81d8a1166c.png",
+    "static/media/leaf.png": "./build/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "./build/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "./build/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "./build/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "./build/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/about.png": "./build/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/myavatar (1).png": "./build/static/media/myavatar (1).970033948da1a467dc71.png",
+    "static/media/chatify.png": "./build/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/pre.svg": "./build/static/media/pre.08574514af646b31d5dd.svg",
+    "index.html": "./build/index.html",
+    "main.60303312.css.map": "./build/static/css/main.60303312.css.map",
+    "main.3bf02a44.js.map": "./build/static/js/main.3bf02a44.js.map",
+    "787.a85ed26c.chunk.js.map": "./build/static/js/787.a85ed26c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60303312.css",
+    "static/js/main.3bf02a44.js"
+  ]
+}
