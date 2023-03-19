@@ -1,7 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import homeLogo from "../../Assets/myavatar (1).png";
-import Home2 from "./Home2";
+import homeLogo from "../../Assets/myavatar.png";
 import Type from "./Type";
 import Tilt from "react-parallax-tilt";
 
@@ -33,15 +32,15 @@ function Home() {
 
             <Row className="home-about-description">
               <h1 style={{ fontSize: "2.6em", textAlign: "left" }}>
-                LET ME <span className="purple"> INTRODUCE </span> MYSELF
+                LET ME <span className="purple"> INTRODUCE </span> MYSELF . . .
+                .
               </h1>
               <p className="home-about-body">
-                I am a <b className="purple">Backend Developer</b> with an
-                extensive background in designing, building, and testing
-                server-side applications using various tools and technologies
-                besides, my experience expanded to modeling databases, writing
-                API documentation, supporting business decisions involvement
-                with the deployment team.
+                I am a <b className="purple">Backend Developer</b> with
+                background in building, testing, and deploying server-side
+                applications, my experience expanded to model databases, write
+                API documentation, and support business decisions by involving
+                in Agile process.
                 <br />
                 <br />
                 Also, Obsessed with delicious yummy systems, falling in love
@@ -77,7 +76,6 @@ function Home() {
           </Col>
         </Row>
       </Container>
-      <Home2 />
     </section>
   );
 }

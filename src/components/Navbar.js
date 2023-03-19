@@ -2,17 +2,18 @@ import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
-import logo from "../Assets/logo.png";
 import { Link } from "react-router-dom";
 import {
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
+  AiFillApi,
 } from "react-icons/ai";
 
 import About from "./About/About";
 import Home from "./Home/Home";
 import Projects from "./Projects/Projects";
+import Experience from "./experience/Experience";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -68,10 +69,10 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 as={Link}
-                to="#about"
-                onClick={() => scrollTosection(About)}
+                to="#experience"
+                onClick={() => scrollTosection(Experience)}
               >
-                <AiOutlineUser style={{ marginBottom: "2px" }} /> About
+                <AiOutlineUser style={{ marginBottom: "2px" }} /> Experience
               </Nav.Link>
             </Nav.Item>
 
@@ -85,6 +86,16 @@ function NavBar() {
                   style={{ marginBottom: "2px" }}
                 />{" "}
                 Projects
+              </Nav.Link>
+            </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="#about"
+                onClick={() => scrollTosection(About)}
+              >
+                <AiFillApi style={{ marginBottom: "2px" }} /> Skills
               </Nav.Link>
             </Nav.Item>
           </Nav>
