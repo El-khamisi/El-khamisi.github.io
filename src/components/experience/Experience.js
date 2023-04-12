@@ -21,7 +21,8 @@ function Experience() {
           position={"Backend Developer - Depax"}
           company={"Software Development"}
           text={`As a B2C company I built many applications by Express.js, and different databases (depending on each project’s specifications like MongoDB, Postgresql, and Redis)
-            Integrate third-parties APIs (e.g: payment gateway, file storage service )`}
+            Integrate third-parties APIs (e.g: payment gateway, file storage service )
+            Skills: Express.js · MongoDB · Redis · postman · DigitalOcean · Node.js · REST APIs`}
         />
       </Row>
     </Container>
