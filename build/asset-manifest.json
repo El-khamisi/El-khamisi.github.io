@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./build/static/css/main.8acbd822.css",
-    "main.js": "./build/static/js/main.fbbb6c4b.js",
+    "main.css": "./build/static/css/main.660edcf9.css",
+    "main.js": "./build/static/js/main.8bfaad38.js",
     "static/js/787.a85ed26c.chunk.js": "./build/static/js/787.a85ed26c.chunk.js",
     "static/media/about.png": "./build/static/media/about.42f2fd7d5c81d8a1166c.png",
-    "static/media/dendots.png": "./build/static/media/dendots.717cbf436a498d6aa709.png",
     "static/media/ds.png": "./build/static/media/ds.cf9fad9fc8880bee575b.png",
     "static/media/LitFair.png": "./build/static/media/LitFair.cf0b7a5ade9783d91e59.png",
+    "static/media/dendots.png": "./build/static/media/dendots.9b632ea9f0c56c72b181.png",
     "static/media/myavatar.png": "./build/static/media/myavatar.970033948da1a467dc71.png",
     "static/media/textgenuss.png": "./build/static/media/textgenuss.bfc8ece31049d1ac114b.png",
     "static/media/whatsappweb.png": "./build/static/media/whatsappweb.8c92158d5320f4f09530.png",
     "static/media/cpp.png": "./build/static/media/cpp.f4f4c427bd0bc8e219d4.png",
     "static/media/pre.svg": "./build/static/media/pre.08574514af646b31d5dd.svg",
     "index.html": "./build/index.html",
-    "main.8acbd822.css.map": "./build/static/css/main.8acbd822.css.map",
-    "main.fbbb6c4b.js.map": "./build/static/js/main.fbbb6c4b.js.map",
+    "main.660edcf9.css.map": "./build/static/css/main.660edcf9.css.map",
+    "main.8bfaad38.js.map": "./build/static/js/main.8bfaad38.js.map",
     "787.a85ed26c.chunk.js.map": "./build/static/js/787.a85ed26c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8acbd822.css",
-    "static/js/main.fbbb6c4b.js"
+    "static/css/main.660edcf9.css",
+    "static/js/main.8bfaad38.js"
   ]
 }

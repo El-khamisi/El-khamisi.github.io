@@ -18,7 +18,7 @@ function ProjectCards({ img, title, description, github, demo }) {
         <Card.Text style={{ textAlign: "justify" }}>{description}</Card.Text>
         {github && (
           <Button variant="primary" href={github} target="_blank">
-            <BsGithub /> &nbsp; GitHub
+            <BsGithub /> &nbsp; GitHub Repo
           </Button>
         )}
         {"\n"}
@@ -34,7 +34,7 @@ function ProjectCards({ img, title, description, github, demo }) {
             style={{ marginLeft: "10px" }}
           >
             <CgWebsite /> &nbsp;
-            {"Demo"}
+            {"Live Demo"}
           </Button>
         )}
       </Card.Body>

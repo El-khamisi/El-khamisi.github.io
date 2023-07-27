@@ -24,7 +24,7 @@ function Projects() {
               img={dendots}
               title="Dendots - Dental Clinic"
               description={
-                "Dendots is a global dental practice management solution that helps dental practices streamline their operations, improve patient care, and increase profitability."
+                "Dental management solution that helps clinics imporve their operations, keep track of treatments plans, and manage working hours for clinic staff"
               }
               demo="https://www.dendots.com"
             />

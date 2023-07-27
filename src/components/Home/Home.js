@@ -38,20 +38,23 @@ function Home() {
               <p className="home-about-body">
                 I am a <b className="purple">Backend Developer</b> with
                 background in building, testing, and deploying server-side
-                applications, my experience expanded to model databases, write
-                API documentation, and support business decisions by involving
-                in Agile process.
+                applications, my experience extends to database modeling, API
+                documentation, and active involvement in Agile processes to
+                support business decisions.
                 <br />
                 <br />
-                Also, Obsessed with delicious yummy systems, falling in love
-                with how different parts communicate with each other, which
-                protocols they use, how they exchange messages in terms of
-                security and latency, and how they maintain their health status.
-                🍜😋
+                But my passion for technology runs deeper than just my
+                professional experience. I am truly obsessed with creating
+                systems that are not only functional but also delightful to use.
+                I am captivated by the intricate communication between system
+                components, the protocols they use, message exchange, security,
+                latency, and overall health status. I am always on the lookout
+                for delicious, well-functioning systems that make me fall in
+                love with technology all over again. 🍜😋
                 <br />
                 <br />
                 My field of Interest's are building new
-                <b className="purple">Web Technologies and Products </b>
+                <b className="purple"> Web Technologies and Products </b>
                 and also in areas related to{" "}
                 <b className="purple">Cloud and Systems Architecture.</b>
                 <br />

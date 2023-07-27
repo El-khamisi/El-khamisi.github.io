@@ -10,10 +10,10 @@ function ExperienceCard({ logo, position, company, text }) {
       />
       <Card.Body style={{ textAlign: "left", fontSize: "20px" }}>
         <Card.Title style={{ fontSize: "28px" }}>{position}</Card.Title>
-        <Card.Subtitle>{company}</Card.Subtitle>
+        <Card.Subtitle style={{ lineHeight: "40px" }}>{company}</Card.Subtitle>
 
         {text?.split("\n").map((line) => (
-          <li>{line}</li>
+          <li style={{ lineHeight: "40px" }}>{line}</li>
         ))}
       </Card.Body>
     </Card>
